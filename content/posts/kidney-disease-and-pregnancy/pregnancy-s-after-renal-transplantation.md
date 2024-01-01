@@ -1,12 +1,11 @@
 ---
 date: '2022-03-03T18:00:00.000Z'
-description: ''
-image: /images/275233733_1875132369336504_3341580348604440297_n.jpg
+description: this. description
+image: /static/images/received_1069432947015472.jpeg
 title: >-
   Pregnancy's after Renal Transplantation - কিডনি ট্রান্সপ্লান্টের পর
   প্রেগ্ন্যানসির
 ---
-
 
 
 **কিডনি ট্রান্সপ্লান্টের পর প্রেগ্ন্যানসির টার্গেট হতে হবেঃ**
