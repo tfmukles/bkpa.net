@@ -1,0 +1,11 @@
+{
+  "media": {
+    "root": "static/images",
+    "public": "static"
+  },
+  "environment": "NextJs",
+  "content": {
+    "root": "content"
+  },
+  "themeConfig": []
+}
