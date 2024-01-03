@@ -7,5 +7,6 @@
   "content": {
     "root": "content"
   },
-  "themeConfig": []
+  "themeConfig": [],
+  arrangement: []
 }
