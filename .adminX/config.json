@@ -8,5 +8,11 @@
     "root": "content"
   },
   "themeConfig": [],
-  "arrangement": []
+  "arrangement": [
+    {
+      "folder": "content/author",
+      "include": "*.md",
+      "exclude": "!*index.md"
+    }
+  ]
 }
