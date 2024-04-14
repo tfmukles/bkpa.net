@@ -1,18 +1,11 @@
 {
   "media": {
     "root": "static/images",
-    "public": "static"
+    "public": "static/images"
   },
-  "environment": "NextJs",
   "content": {
     "root": "content"
   },
   "themeConfig": [],
-  "arrangement": [
-    {
-      "folder": "content/author",
-      "include": "*.md",
-      "exclude": "!*index.md"
-    }
-  ]
+  "arrangement": {}
 }
