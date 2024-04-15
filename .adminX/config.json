@@ -7,7 +7,6 @@
     "root": "content"
   },
   "themeConfig": [
-    "config/_default",
     "config/_default/config.toml"
   ],
   "arrangement": {}
