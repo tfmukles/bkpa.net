@@ -6,6 +6,8 @@
   "content": {
     "root": "content"
   },
-  "themeConfig": [],
+  "themeConfig": [
+    "config/_default"
+  ],
   "arrangement": {}
 }
