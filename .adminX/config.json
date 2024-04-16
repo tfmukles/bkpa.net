@@ -12,7 +12,17 @@
   ],
   "arrangement": {
     "Test Heading": {
-      "type": "heading"
+      "type": "heading",
+      "weight": 0
+    },
+    "content/author": {
+      "weight": 1
+    },
+    "content/emergency-contacts": {
+      "weight": 2
+    },
+    "content/posts": {
+      "weight": 3
     }
   }
 }
