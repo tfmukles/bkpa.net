@@ -10,5 +10,15 @@
     "config/_default/menus.toml",
     "config/_default/params.toml"
   ],
-  "arrangement": {}
+  "arrangement": {
+    "content/emergency-contacts": {
+      "weight": 0
+    },
+    "content/author": {
+      "weight": 1
+    },
+    "content/posts": {
+      "weight": 2
+    }
+  }
 }
