@@ -15,10 +15,10 @@
       "weight": 0
     },
     "content/author": {
-      "weight": 1
+      "weight": 2
     },
     "content/posts": {
-      "weight": 2
+      "weight": 1
     }
   }
 }
