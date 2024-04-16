@@ -7,9 +7,25 @@
     "root": "content"
   },
   "themeConfig": [
-    "config/_default",
-    "tina/fields",
-    "netlify.toml"
+    {
+      "themeConfiguration": "config/_default"
+    },
+    {
+      "themeConfiguration": "tina/fields"
+    },
+    {
+      "themeConfiguration": "netlify.toml"
+    }
   ],
-  "arrangement": {}
+  "arrangement": {
+    "content/emergency-contacts": {
+      "weight": 0
+    },
+    "content/author": {
+      "weight": 1
+    },
+    "content/posts": {
+      "weight": 2
+    }
+  }
 }
