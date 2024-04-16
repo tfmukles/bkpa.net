@@ -17,11 +17,6 @@
     "content/author": {
       "weight": 2
     }
-    "heading":{
-      "heddingTest": {
-              "weight": 2
-
-      }
-    }
+    
   }
 }
