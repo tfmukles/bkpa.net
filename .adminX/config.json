@@ -17,12 +17,6 @@
     "content/author": {
       "weight": 2
     },
-    "content/posts": {
-      "weight": 1,
-      "blog-list": {
-        "include": "*.md",
-        "exclude": "!*index.md"
-      }
-    }
+    
   }
 }
