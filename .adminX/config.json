@@ -8,7 +8,8 @@
   },
   "themeConfig": [
     "config/_default",
-    "tina/fields"
+    "tina/fields",
+    "netlify.toml"
   ],
   "arrangement": {}
 }
