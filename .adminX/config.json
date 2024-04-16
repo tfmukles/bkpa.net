@@ -10,5 +10,9 @@
     "config/_default/menus.toml",
     "config/_default/params.toml"
   ],
-  "arrangement": {}
+  "arrangement": {
+    "Test Heading": {
+      "type": "heading"
+    }
+  }
 }
