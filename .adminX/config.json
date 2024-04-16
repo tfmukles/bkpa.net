@@ -18,7 +18,10 @@
       "weight": 2
     }
     "heading":{
-      "heddingTest": {}
+      "heddingTest": {
+              "weight": 2
+
+      }
     }
   }
 }
