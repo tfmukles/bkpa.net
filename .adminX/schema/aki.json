@@ -7,9 +7,8 @@
     {
       "label": "Date",
       "name": "date",
-      "type": "string",
-      "value": "",
-      "description": "description"
+      "type": "Date",
+      "value": ""
     },
     {
       "label": "Description",
@@ -21,8 +20,7 @@
       "label": "Image",
       "name": "image",
       "type": "media",
-      "value": "",
-      "description": "this is description."
+      "value": ""
     },
     {
       "label": "Title",
