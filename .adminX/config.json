@@ -10,17 +10,6 @@
     "config/_default/menus.toml",
     "config/_default/params.toml"
   ],
-  "arrangement": {
-    "content/posts": {
-      "blog": {
-        "include": "*.md",
-        "exclude": "!*index.md",
-        "weight": 1
-      }
-    },
-    "Test Heading": {
-      "type": "heading",
-      "weight": 0
-    }
-  }
+  "arrangement": {}
+
 }
