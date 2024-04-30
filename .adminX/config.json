@@ -15,10 +15,6 @@
       "blogs": {
         "include": "*.md",
         "exclude": "!*index.md"
-      },
-      "blog-index": {
-        "include": "*.md",
-        "exclude": "!*index.md"
       }
     }
   }
