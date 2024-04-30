@@ -11,10 +11,6 @@
     "config/_default/params.toml"
   ],
   "arrangement": {
-    "Test Heading": {
-      "type": "heading",
-      "weight": 2
-    },
     "content/posts": {
       "weight": 3
     }
