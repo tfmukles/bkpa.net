@@ -14,11 +14,13 @@
     "content/posts": {
       "blog": {
         "include": "*.md",
-        "exclude": "!*index.md"
+        "exclude": "!*index.md",
+        "weight": 1
       }
     },
     "Test Heading": {
-      "type": "heading"
+      "type": "heading",
+      "weight": 0
     }
   }
 }
