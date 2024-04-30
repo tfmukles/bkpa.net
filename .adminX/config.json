@@ -16,6 +16,9 @@
         "include": "*.md",
         "exclude": "!*index.md"
       }
+    },
+    "content/_index.md": {
+      "test-indexfile": {}
     }
   }
 }
