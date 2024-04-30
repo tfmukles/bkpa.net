@@ -14,11 +14,14 @@
     "content/posts": {
       "blog-list": {
         "include": "*.md",
-        "exclude": "!*index.md"
+        "exclude": "!*index.md",
+        "weight": 0
       }
     },
     "content/author/Dr. Mohammod Mukles.md": {
-      "DR.MUKLES": {}
+      "DR.MUKLES": {
+        "weight": 1
+      }
     }
   }
 }
