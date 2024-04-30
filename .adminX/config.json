@@ -19,6 +19,9 @@
         "include": "*.md",
         "exclude": "!*index.md"
       }
+    },
+    "content/faq.md": {
+      "frequently-question": {}
     }
   }
 }
