@@ -10,9 +10,5 @@
     "config/_default/menus.toml",
     "config/_default/params.toml"
   ],
-  "arrangement": {
-    "content/posts": {
-      "weight": 3
-    }
-  }
+  "arrangement": {}
 }
