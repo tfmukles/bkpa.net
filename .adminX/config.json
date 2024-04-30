@@ -16,6 +16,9 @@
         "include": "*.md",
         "exclude": "!*index.md"
       }
+    },
+    "content/author/Dr. Mohammod Mukles.md": {
+      "DR.MUKLES": {}
     }
   }
 }
