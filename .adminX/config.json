@@ -10,22 +10,5 @@
     "config/_default/menus.toml",
     "config/_default/params.toml"
   ],
-  "arrangement": {
-    "Test Heading 2": {
-      "type": "heading",
-      "weight": 0
-    },
-    "content/posts": {
-      "blogs": {
-        "include": "*.md",
-        "exclude": "!*index.md",
-        "weight": 1
-      }
-    },
-    "content/faq.md": {
-      "faq": {
-        "weight": 2
-      }
-    }
-  }
+  "arrangement": {}
 }
