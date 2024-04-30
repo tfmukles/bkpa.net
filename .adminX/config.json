@@ -15,9 +15,6 @@
       "type": "heading",
       "weight": 2
     },
-    "content/emergency-contacts": {
-      "weight": 1
-    },
     "content/posts": {
       "weight": 3
     }
