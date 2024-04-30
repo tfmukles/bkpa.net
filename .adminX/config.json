@@ -10,5 +10,12 @@
     "config/_default/menus.toml",
     "config/_default/params.toml"
   ],
-  "arrangement": {}
+  "arrangement": {
+    "content/posts": {
+      "blog-list": {
+        "include": "*.md",
+        "exclude": "!*index.md"
+      }
+    }
+  }
 }
