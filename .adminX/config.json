@@ -13,6 +13,12 @@
   "arrangement": {
     "Test Heading 2": {
       "type": "heading"
+    },
+    "content/posts": {
+      "blogs": {
+        "include": "*.md",
+        "exclude": "!*index.md"
+      }
     }
   }
 }
