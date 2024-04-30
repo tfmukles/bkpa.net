@@ -12,16 +12,20 @@
   ],
   "arrangement": {
     "Test Heading 2": {
-      "type": "heading"
+      "type": "heading",
+      "weight": 0
     },
     "content/posts": {
       "blogs": {
         "include": "*.md",
-        "exclude": "!*index.md"
+        "exclude": "!*index.md",
+        "weight": 1
       }
     },
     "content/faq.md": {
-      "faq": {}
+      "faq": {
+        "weight": 2
+      }
     }
   }
 }
