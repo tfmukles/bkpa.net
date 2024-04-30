@@ -15,9 +15,6 @@
       "type": "heading",
       "weight": 2
     },
-    "content/author": {
-      "weight": 0
-    },
     "content/emergency-contacts": {
       "weight": 1
     },
