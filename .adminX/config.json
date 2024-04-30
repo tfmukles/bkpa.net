@@ -16,6 +16,9 @@
         "include": "*.md",
         "exclude": "!*index.md"
       }
+    },
+    "Test Heading": {
+      "type": "heading"
     }
   }
 }
