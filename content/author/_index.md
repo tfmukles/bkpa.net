@@ -1,6 +1,6 @@
 ---
-title: "Authors"
+title: Authors updated
 draft: false
-# description
-description: "This is meta description"
+description: This is meta description
 ---
+
