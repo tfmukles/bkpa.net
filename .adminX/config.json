@@ -11,12 +11,6 @@
     "config/_default/params.toml"
   ],
   "arrangement": {
-    "content/emergency-contacts": {
-      "blogs": {
-        "include": "*.md",
-        "exclude": "!*index.md"
-      }
-    },
     "content/_index.md": {
       "test-indexfile": {}
     }
