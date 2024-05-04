@@ -33,6 +33,9 @@
         "include": "*.md",
         "exclude": "!*index.md"
       }
+    },
+    "content/author/Dr.md": {
+      "Dr": {}
     }
   }
 }
