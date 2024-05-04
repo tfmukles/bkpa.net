@@ -27,6 +27,12 @@
     },
     "content/author/Mukles.md": {
       "DR.MUKLES": {}
+    },
+    "content/author": {
+      "map-authores": {
+        "include": "*.md",
+        "exclude": "!*index.md"
+      }
     }
   }
 }
