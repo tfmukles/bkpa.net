@@ -30,6 +30,12 @@
     },
     "content/author/Dr.md": {
       "Dr": {}
+    },
+    "content/author": {
+      "map-authores": {
+        "include": "*.md",
+        "exclude": "!*index.md"
+      }
     }
   }
 }
