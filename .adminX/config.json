@@ -26,6 +26,9 @@
     "Test Heading": {
       "type": "heading",
       "weight": 0
+    },
+    "Test Heading 2": {
+      "type": "heading"
     }
   }
 }
