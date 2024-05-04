@@ -15,7 +15,7 @@
       "blog-list": {
         "include": "*.md",
         "exclude": "!*index.md",
-        "weight": 0
+        "weight": 2
       }
     },
     "content/author/Dr. Mohammod Mukles.md": {
@@ -24,7 +24,8 @@
       }
     },
     "Test Heading": {
-      "type": "heading"
+      "type": "heading",
+      "weight": 0
     }
   }
 }
