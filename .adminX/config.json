@@ -32,6 +32,12 @@
     "Test Heading 3": {
       "type": "heading",
       "weight": 2
+    },
+    "content/author": {
+      "auth-list": {
+        "include": "*.md",
+        "exclude": "!*_index.md"
+      }
     }
   }
 }
