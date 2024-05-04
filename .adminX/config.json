@@ -22,6 +22,9 @@
       "DR.MUKLES": {
         "weight": 1
       }
+    },
+    "Test Heading": {
+      "type": "heading"
     }
   }
 }
