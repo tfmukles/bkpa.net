@@ -15,21 +15,26 @@
       "blog-list": {
         "include": "*.md",
         "exclude": "!*index.md",
-        "weight": 2
+        "weight": 4
       }
     },
     "Test Heading": {
       "type": "heading",
-      "weight": 0
+      "weight": 3
     },
     "Test Heading 2": {
-      "type": "heading"
+      "type": "heading",
+      "weight": 0
     },
     "content/author/Mukles.md": {
-      "DR.MUKLES": {}
+      "DR.MUKLES": {
+        "weight": 2
+      }
     },
     "content/author/Dr.md": {
-      "Dr": {}
+      "Dr": {
+        "weight": 1
+      }
     }
   }
 }
