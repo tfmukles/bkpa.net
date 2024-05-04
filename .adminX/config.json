@@ -35,6 +35,9 @@
       "Dr": {
         "weight": 1
       }
+    },
+    "Test Heading 3": {
+      "type": "heading"
     }
   }
 }
