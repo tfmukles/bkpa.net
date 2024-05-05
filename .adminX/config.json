@@ -11,25 +11,25 @@
     "config/_default/params.toml"
   ],
   "arrangement": {
-    "Test Heading": {
+    "Test Heading 2": {
       "type": "heading",
       "weight": 0
     },
+    "Test Heading": {
+      "type": "heading",
+      "weight": 1
+    },
     "content/author": {
       "author-list": {
-        "weight": 1,
+        "weight": 2,
         "include": "*.md",
         "exclude": "!*index.md, !_*index.mdx"
       },
       "author-index": {
-        "weight": 2,
+        "weight": 3,
         "include": "*index",
         "exclude": ""
       }
-    },
-    "Test Heading 2": {
-      "type": "heading",
-      "weight": 3
     }
   }
 }
