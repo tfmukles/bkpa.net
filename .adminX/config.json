@@ -27,6 +27,9 @@
         "include": "*.md",
         "exclude": "!*index.md"
       }
+    },
+    "Test Heading": {
+      "weight": 3
     }
   }
 }
