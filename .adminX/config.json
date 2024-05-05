@@ -10,26 +10,5 @@
     "config/_default/menus.toml",
     "config/_default/params.toml"
   ],
-  "arrangement": {
-    "content/author/Dr.md": {
-      "Dr": {
-        "weight": 2
-      }
-    },
-    "content/author/Mukles.md": {
-      "DR.MUKLES": {
-        "weight": 0
-      }
-    },
-    "content/author": {
-      "author-list": {
-        "weight": 2,
-        "include": "*.md",
-        "exclude": "!*index.md"
-      }
-    },
-    "Test Heading": {
-      "weight": 3
-    }
-  }
+  "arrangement": {}
 }
