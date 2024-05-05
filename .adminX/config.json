@@ -10,5 +10,22 @@
     "config/_default/menus.toml",
     "config/_default/params.toml"
   ],
-  "arrangement": {}
+  "arrangement": {
+    "content/author": {
+      "author-list": {
+        "weight": 0,
+        "include": "*.md",
+        "exclude": "!*index.md, !_*index.mdx"
+      },
+      "author-index": {
+        "weight": 1,
+        "include": "*index",
+        "exclude": ""
+      }
+    },
+    "Test Heading": {
+      "type": "heading",
+      "weight": 2
+    }
+  }
 }
