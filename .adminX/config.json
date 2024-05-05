@@ -17,21 +17,21 @@
     },
     "Test Heading 2": {
       "type": "heading",
-      "weight": 0
+      "weight": 1
     },
     "content/author/Mukles.md": {
       "DR.MUKLES": {
-        "weight": 3
+        "weight": 0
       }
     },
     "content/author/Dr.md": {
       "Dr": {
-        "weight": 1
+        "weight": 2
       }
     },
     "Test Heading 3": {
       "type": "heading",
-      "weight": 2
+      "weight": 3
     },
     "content/author": {
       "auth-list": {
