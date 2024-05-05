@@ -11,6 +11,10 @@
     "config/_default/params.toml"
   ],
   "arrangement": {
+    "Test Heading": {
+      "type": "heading",
+      "weight": 2
+    },
     "content/author": {
       "author-list": {
         "weight": 0,
@@ -22,10 +26,6 @@
         "include": "*index",
         "exclude": ""
       }
-    },
-    "Test Heading": {
-      "type": "heading",
-      "weight": 2
     }
   }
 }
