@@ -13,16 +13,16 @@
   "arrangement": {
     "Test Heading": {
       "type": "heading",
-      "weight": 2
+      "weight": 0
     },
     "content/author": {
       "author-list": {
-        "weight": 0,
+        "weight": 1,
         "include": "*.md",
         "exclude": "!*index.md, !_*index.mdx"
       },
       "author-index": {
-        "weight": 1,
+        "weight": 2,
         "include": "*index",
         "exclude": ""
       }
