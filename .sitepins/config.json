@@ -6,15 +6,10 @@
   "content": {
     "root": "content"
   },
+  "code": {
+    "root": "themes/godocs/layouts"
+  },
   "themeConfig": [],
-  "arrangement": [
-    {
-      "type": "folder",
-      "targetPath": "content/author",
-      "groupName": "blogs",
-      "include": "*.md, *.mdx",
-      "exclude": "!index.md, !index*"
-    }
-  ],
+  "arrangement": [],
   "showCommitModal": false
 }
