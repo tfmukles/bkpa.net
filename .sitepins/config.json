@@ -9,7 +9,9 @@
   "code": {
     "root": "themes/godocs/layouts"
   },
-  "themeConfig": [],
+  "themeConfig": [
+    "config.toml"
+  ],
   "arrangement": [],
   "showCommitModal": false
 }
